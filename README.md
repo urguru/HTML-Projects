@@ -1,3 +1,3 @@
-# HTML-Projects
+# HTML-Project
 
-I have included the HTML Projects Here
+This is a basic HTML Project
